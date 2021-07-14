@@ -47,8 +47,6 @@ I am proud of your effort at implementing the class methods. Please checkout the
 This applies through the rest of the code
 4. text and number from lines 5 and 6 are undefined. The attributes could be better defined like:
     self.hasBeenRead = hasBeenRead
-    self.messageText = messageText
-    self.fromNumber = fromNumber
 5. The changes from reviewed comments 2 need to be set as attributes, they need to be set with new instances
 6. Userchoice from lie 9 needs to run with the method as an argument as Userchoice is currentlyundefined
 7. Read needs to be a string as it is currently applying as a variable eg "read"
