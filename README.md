@@ -1,2 +1,2 @@
 # CoGrammar
-Take-home test; Code reviewer for CoGrammar
+Take-home-test; Code reviewer for CoGrammar
